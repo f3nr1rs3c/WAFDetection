@@ -13,6 +13,7 @@ def clear_screen():
 def print_banner():
     figlet = Figlet(font='slant')
     print(Fore.BLUE + figlet.renderText('Waf Detection') + Fore.RESET)
+    print(Fore.MAGENTA + "                      | - |  By : Fenrir - Penetration Tester | - |         \n" + Fore.RESET)
 
 clear_screen()
 print_banner()
