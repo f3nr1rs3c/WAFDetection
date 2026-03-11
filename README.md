@@ -1,3 +1,4 @@
+# WAFSeeker - Web Application Firewall Detection Tool
 
 🚀 **WAF Detection Tool**, bir web sitesinde **Web Application Firewall (WAF)** olup olmadığını hızlı bir şekilde tespit etmek için geliştirilmiş basit ama etkili bir Python aracıdır.
 
