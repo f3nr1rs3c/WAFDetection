@@ -5,9 +5,8 @@ HTTP yanıt **header**, **server bilgisi** ve **response content** analiz ediler
 
 Bu araç özellikle:
 
-- 🔎 **Pentesterlar**
-- 🛡️ **Bug Bounty araştırmacıları**
-- 🧑‍💻 **Cybersecurity öğrencileri**
+- 🔎 **Penetration Tester**
+- 🛡️ **Bug Bounty Hunter**
 
 için hızlı bir **reconnaissance aracı** olarak kullanılabilir.
 
