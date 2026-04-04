@@ -3,7 +3,7 @@
 
 """
 WAFSeeker - Professional Web Application Firewall Detector
-Author: Sirius (Updated via Antigravity)
+Author: Sirius
 
 Özellikleri ve Pentest Notları:
 - **Agresif WAF Taraması (Malicious Payload):** Çoğu gelişmiş WAF, normal trafiği maskeler
