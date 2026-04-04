@@ -120,7 +120,6 @@ def clear_screen():
 def print_banner():
     f = Figlet(font='slant', width=100)
     print(Fore.BLUE + Style.BRIGHT + f.renderText('WAFSeeker'))
-    print(Fore.CYAN + Style.BRIGHT + str_info + "\n" + Fore.RESET)
 
 def analyze_response(response, waf_detected):
     """Gelen HTTP yanıtını WAF imzaları ile test eder."""
